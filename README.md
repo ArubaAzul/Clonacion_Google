@@ -7,6 +7,7 @@
 * [2. ¿Qué construí?](https://github.com/ArubaAzul/Clonacion_Google/edit/main/README.md#2-qu%C3%A9-contru%C3%AD)
 * [3. Objetivo del proyecto](https://github.com/ArubaAzul/Clonacion_Google/edit/main/README.md#3-objetivo-del-proyecto)
 * [4. Link a Demo](https://github.com/ArubaAzul/Clonacion_Google/edit/main/README.md#4-link-a-demo)
+
 ****
 
 
@@ -25,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ## 4. Link a Demo 
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google]
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
